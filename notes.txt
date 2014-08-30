@@ -1,0 +1,9 @@
+Created repo on github
+- initialize with README
+
+Use Git Clone menu command to get to dev editor
+- Needed to set local base directory
+
+Created this file and started putting text in it.
+
+Right click on it and Git Add
