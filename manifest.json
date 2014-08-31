@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "SImpleJS",
+  "short_name": "SImpleJS",
+  "description": "Description for SImpleJS",
+
+  "version": "0.0.1.0",
+
+  "icons": {
+    "16": "assets/icon_16.png",
+    "128": "assets/icon_128.png"
+  },
+
+  "permissions": [
+    "usb",
+    "usbDevices": [
+      {
+        "vendorId": 123,
+        "productId": 456
+      }
+    ]
+  ],
+
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}

@@ -7,3 +7,19 @@ Use Git Clone menu command to get to dev editor
 Created this file and started putting text in it.
 
 Right click on it and Git Add
+
+Right click on project and Push to Origin
+- Needed to login
+- checked on github, changes are indeed there
+
+Ok, so how do I get a template project in here? Maybe that is Import?
+
+Create a new project SimpleJS as Javascript Chrome App (wonder why there is not
+a Polymer option?)
+
+Import folder into playground. It is a subfolder. If highlighted I get the play
+option and it seems to run when I play.
+
+Removed SimpleJS project and deleted it.
+
+Had to move things to toplevel of playground to work
